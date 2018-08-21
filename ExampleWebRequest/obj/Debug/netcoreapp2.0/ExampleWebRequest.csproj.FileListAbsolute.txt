@@ -1,0 +1,11 @@
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\bin\Debug\netcoreapp2.0\ExampleWebRequest.deps.json
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\bin\Debug\netcoreapp2.0\ExampleWebRequest.runtimeconfig.json
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\bin\Debug\netcoreapp2.0\ExampleWebRequest.runtimeconfig.dev.json
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\bin\Debug\netcoreapp2.0\ExampleWebRequest.dll
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\bin\Debug\netcoreapp2.0\ExampleWebRequest.pdb
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\obj\Debug\netcoreapp2.0\ExampleWebRequest.csprojAssemblyReference.cache
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\obj\Debug\netcoreapp2.0\ExampleWebRequest.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\obj\Debug\netcoreapp2.0\ExampleWebRequest.AssemblyInfoInputs.cache
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\obj\Debug\netcoreapp2.0\ExampleWebRequest.AssemblyInfo.cs
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\obj\Debug\netcoreapp2.0\ExampleWebRequest.dll
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleWebRequest\ExampleWebRequest\ExampleWebRequest\obj\Debug\netcoreapp2.0\ExampleWebRequest.pdb
